@@ -1,0 +1,33 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <meta Charset="UTF-8">
+    <meta name="wiewport"
+content+"width=device-width, initial-scale=1.0">
+   <title>WDD 130 | Home<title>
+</head>
+<body>
+   <h1>Welcome to My Wdd 130 Website</h1>
+
+   <p>Hello! My name is Mudenge. </p>
+
+   <p>
+     Welcome to my web development website.
+     I am learning HTML and creating webspages as part of my WDD 130 course.
+     
+     </p>
+     
+     <h2>My First Project</h2>
+     
+     <p>
+
+       Vist my favorite city webpage about
+Bulawayo,
+        the second capital city of Zimbabwe.
+
+     </p>
+
+     <a href="favorite-city.html">My Favorite City</a>
+
+     <body>
+     </html>
